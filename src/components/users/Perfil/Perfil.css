@@ -1,0 +1,12 @@
+.container_perfil {
+  display: flex;
+  background-color: red;
+  width: auto;
+  height: 100vh;
+}
+
+.profile_picture {
+  width: calc(2rem, 3rem, 4rem);
+  background-color: aqua;
+  border-radius: 100%;
+}

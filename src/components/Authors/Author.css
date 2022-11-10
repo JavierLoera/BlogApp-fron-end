@@ -1,0 +1,8 @@
+.spinner_container {
+  font-size: 20rem;
+  position: relative;
+  margin: auto;
+  display: grid;
+  place-items: center;
+  width: 400px;
+}
