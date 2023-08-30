@@ -26,7 +26,7 @@ function App() {
   const { userAuth } = useSelector(state => state?.users);
 
   useEffect(() => {
-    dispatch(userAuthData)
+    dispatch(userAuthData())
   }, [dispatch])
 
   return (
